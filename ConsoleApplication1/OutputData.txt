@@ -1,14 +1,11 @@
-V = 8 S = 0.001 u = 1.73e-05 Re = 0.596532 p = 1.29 d = 1e-06 fi = 40.2326 calculatedobj = 1.6608
-V = 8 S = 0.001 u = 1.73e-05 Re = 0.596532 p = 1.29 d = 1e-06 fi = 40.2326 calculatedobj = 1.6608
-V = 9 S = 0.001 u = 1.73e-05 Re = 0.671098 p = 1.29 d = 1e-06 fi = 35.7623 calculatedobj = 1.8684
-V = 10 S = 0.001 u = 1.73e-05 Re = 0.745665 p = 1.29 d = 1e-06 fi = 32.186 calculatedobj = 2.076
-V = 11 S = 0.001 u = 1.73e-05 Re = 0.820231 p = 1.29 d = 1e-06 fi = 29.26 calculatedobj = 2.2836
-V = 12 S = 0.001 u = 1.73e-05 Re = 0.894798 p = 1.29 d = 1e-06 fi = 26.8217 calculatedobj = 2.4912
-V = 13 S = 0.001 u = 1.73e-05 Re = 0.969364 p = 1.29 d = 1e-06 fi = 24.7585 calculatedobj = 2.6988
-V = 14 S = 0.001 u = 1.73e-05 Re = 1.04393 p = 1.29 d = 1e-06 fi = 22.99 calculatedobj = 2.9064
-V = 15 S = 0.001 u = 1.73e-05 Re = 1.1185 p = 1.29 d = 1e-06 fi = 21.4574 calculatedobj = 3.114
-V = 16 S = 0.001 u = 1.73e-05 Re = 1.19306 p = 1.29 d = 1e-06 fi = 20.1163 calculatedobj = 3.3216
-V = 17 S = 0.001 u = 1.73e-05 Re = 1.26763 p = 1.29 d = 1e-06 fi = 18.933 calculatedobj = 3.5292
-V = 18 S = 0.001 u = 1.73e-05 Re = 1.3422 p = 1.29 d = 1e-06 fi = 17.8811 calculatedobj = 3.7368
-V = 19 S = 0.001 u = 1.73e-05 Re = 1.41676 p = 1.29 d = 1e-06 fi = 16.94 calculatedobj = 3.9444
-V = 20 S = 0.001 u = 1.73e-05 Re = 1.49133 p = 1.29 d = 1e-06 fi = 16.093 calculatedobj = 4.152
+V = 8 S = 0.001 u = 1.73e-05 Re = 596.532 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0181632
+V = 8 S = 0.001 u = 1.73e-05 Re = 596.532 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0181632
+V = 9 S = 0.001 u = 1.73e-05 Re = 671.098 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0229878
+V = 10 S = 0.001 u = 1.73e-05 Re = 745.665 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.02838
+V = 11 S = 0.001 u = 1.73e-05 Re = 820.231 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0343398
+V = 12 S = 0.001 u = 1.73e-05 Re = 894.798 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0408672
+V = 13 S = 0.001 u = 1.73e-05 Re = 969.364 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0479622
+object can't be calculated
+object can't be calculated
+object can't be calculated
+object can't be calculated
