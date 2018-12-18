@@ -17,13 +17,22 @@ class ResistanceForce:public objectOfCalculation {
 	double Re;
 	double u;
 	double S;
+
 public:
 	double V;
 	void inputDataFromFile(ifstream &in) {
 		in >> p;
 		in >> V;
+		if (V < 8 && V>20) {
+			cout << "d is not in interval, correct it and start program" << endl;
+			exit(0);
+		}
 		in >> S;
 		in >> d;
+		if (d<0.001 && d > 0.003) {
+			cout << "d is not in interval, correct it and start program" << endl;
+			exit(0);
+		}
 		in >> u;
 	}
 	void outputDataToFile(ofstream &out) {
