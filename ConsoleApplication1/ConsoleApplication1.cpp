@@ -18,9 +18,8 @@ class ResistanceForce:public objectOfCalculation {
 	double Re;
 	double u;
 	double S;
-
-public:
 	double V;
+public:
 	void inputDataFromFile(ifstream &in) {
 		in >> p;
 		in >> V;
@@ -78,8 +77,7 @@ public:
 		}
 		if (fi != NULL) {
 			calculatedParametr = fi * S * p * V * V / 2;
-		}
-		else {
+		} else {
 			cout << "Function with this data does not calculated fi = NULL" << endl;
 		}
 	}
@@ -176,7 +174,7 @@ int main()
 	for (int i = 1; i < 10; i++) {
 		cout << "object "<< i << endl;
 		ar[i] = ar[i-1];
-		ar[i].V += v;
+		ar[i] += v;
 		ar[i].calculate();
 		ar[i].print();
 		ar[i].outputDataToFile(out);
