@@ -1,10 +1,10 @@
-V = 8 S = 0.001 u = 1.73e-05 Re = 596.532 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0181632
-V = 8 S = 0.001 u = 1.73e-05 Re = 596.532 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0181632
-V = 9 S = 0.001 u = 1.73e-05 Re = 671.098 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0229878
-V = 10 S = 0.001 u = 1.73e-05 Re = 745.665 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.02838
-V = 11 S = 0.001 u = 1.73e-05 Re = 820.231 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0343398
-V = 12 S = 0.001 u = 1.73e-05 Re = 894.798 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0408672
-V = 13 S = 0.001 u = 1.73e-05 Re = 969.364 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 0.0479622
+V = 8 S = 0.1 u = 1.73e-05 Re = 596.532 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 1.81632
+V = 8 S = 0.1 u = 1.73e-05 Re = 596.532 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 1.81632
+V = 9 S = 0.1 u = 1.73e-05 Re = 671.098 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 2.29878
+V = 10 S = 0.1 u = 1.73e-05 Re = 745.665 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 2.838
+V = 11 S = 0.1 u = 1.73e-05 Re = 820.231 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 3.43398
+V = 12 S = 0.1 u = 1.73e-05 Re = 894.798 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 4.08672
+V = 13 S = 0.1 u = 1.73e-05 Re = 969.364 p = 1.29 d = 0.001 fi = 0.44 calculatedobj = 4.79622
 object can't be calculated
 object can't be calculated
 object can't be calculated

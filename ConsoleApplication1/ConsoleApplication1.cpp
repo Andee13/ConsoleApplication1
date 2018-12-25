@@ -7,6 +7,7 @@ using namespace std;
 class objectOfCalculation {
 protected:
 	double calculatedParametr;
+	virtual void calculate() = 0;
 	virtual void inputDataFromFile(ifstream &in) = 0;
 	virtual void outputDataToFile(ofstream &out) = 0;
 };
@@ -135,8 +136,10 @@ public:
 		p = obj.p;
 		V = obj.V;
 		S = obj.S;
-		S = obj.u;
+		u = obj.u;
+		d = obj.d;
 	}
+
 };
 int main()
 {
@@ -154,13 +157,19 @@ int main()
 	object1.print();
 	object1.outputDataToFile(out);
 	//constructors
-	ResistanceForce obj1(), obj2(2,4,6,3,8);
+	ResistanceForce obj1(), obj2(2, 4, 6, 3, 8), obj3(obj2);
+	if (obj2 == obj3) {
+		cout << "obj2 == obj3" << endl;
+	} else {
+		cout << "obj2 != obj3" << endl;
+	}
 	//Calculation of function
 	ResistanceForce ar[10];
 	ar[0].inputDataFromFile(in);
 	ar[0].calculate();
 	ar[0].print();
 	ar[0].outputDataToFile(out);
+
 	double v;
 	cout << "Enter increment for V " << endl;
 	cin >> v;
